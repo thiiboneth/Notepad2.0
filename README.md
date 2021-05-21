@@ -1,6 +1,6 @@
-# bytebank
+# Notepad 2.0
 
-A new Flutter project.
+A amazing studying project
 
 ## Getting Started
 
